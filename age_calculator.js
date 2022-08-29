@@ -5,3 +5,5 @@ function lifeInWeek(age) {
     var weeks=yearRemaining*52;
     var months=yearRemaining*12;
     console.log("you have"+days+"days,"+weeks+"weeks,and"+months+"months left");
+} 
+lifeInWeek(19);
